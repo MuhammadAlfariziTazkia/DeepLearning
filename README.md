@@ -1,2 +1,2 @@
-# DeepLearning
-For Learning about DeepLearning, Neural Network, Optimazer Comparation, etc
+# Word Embedding
+This is contain about Natural Language Processing and Comparation of 3 Optimizers
